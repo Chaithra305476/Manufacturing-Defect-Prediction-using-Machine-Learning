@@ -38,6 +38,7 @@ Temperature
 Vibration
 Pressure
 
+OUTPUT:
  First 5 rows:
    temperature    pressure  thickness   hardness   humidity       speed  \
 0    82.483571  191.524806   4.660753  49.282884  43.482862  122.563103   
